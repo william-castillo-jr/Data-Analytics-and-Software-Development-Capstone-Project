@@ -1,10 +1,10 @@
 # Data Analytics and Software Development Capstone Project
+Capstone project for the Data Analytics and Software Development, Associate of Applied Sciences degree from Green River College.
 
 ## Authors
 William Castillo, Addison Farley, RJ Trancherd, Mason Sain, Noah Lanctot
 
 ## Overview
-
 This project focuses on automating the collection, processing, and storage of solar generation forecast data. The aim is to provide a consistent and reliable data source for further analysis. Through teamwork and collaboration, we successfully automated the entire data pipeline, ensuring efficiency, reliability, and data integrity.
 
 ## Running the Program
